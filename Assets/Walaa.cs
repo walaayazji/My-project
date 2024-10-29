@@ -11,6 +11,7 @@ public class Walaa : MonoBehaviour
         string y="Yazji";
         
         Debug.Log("sorry ");
+        Debug.Log("turkish language ");
 
         Debug.Log(x + 5);
         Debug.Log(y);
