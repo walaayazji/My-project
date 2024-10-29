@@ -9,6 +9,8 @@ public class Walaa : MonoBehaviour
     {
         int x=10;
         string y="Yazji";
+        
+        Debug.Log("sorry ");
 
         Debug.Log(x + 5);
         Debug.Log(y);
